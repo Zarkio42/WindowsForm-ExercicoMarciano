@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\WindowsFormMarciano\WindowsFormMarciano\bin\Debug\WindowsFormMarciano.exe.config
+C:\Users\User\source\repos\WindowsFormMarciano\WindowsFormMarciano\bin\Debug\WindowsFormMarciano.exe
+C:\Users\User\source\repos\WindowsFormMarciano\WindowsFormMarciano\bin\Debug\WindowsFormMarciano.pdb
+C:\Users\User\source\repos\WindowsFormMarciano\WindowsFormMarciano\obj\Debug\WindowsFormMarciano.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormMarciano\WindowsFormMarciano\obj\Debug\WindowsFormMarciano.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\WindowsFormMarciano\WindowsFormMarciano\obj\Debug\WindowsFormMarciano.Form1.resources
+C:\Users\User\source\repos\WindowsFormMarciano\WindowsFormMarciano\obj\Debug\WindowsFormMarciano.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsFormMarciano\WindowsFormMarciano\obj\Debug\WindowsFormMarciano.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsFormMarciano\WindowsFormMarciano\obj\Debug\WindowsFormMarciano.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormMarciano\WindowsFormMarciano\obj\Debug\WindowsFormMarciano.exe
+C:\Users\User\source\repos\WindowsFormMarciano\WindowsFormMarciano\obj\Debug\WindowsFormMarciano.pdb
+C:\Users\User\source\repos\WindowsFormMarciano\WindowsFormMarciano\obj\Debug\WindowsFormMarciano.Form2.resources
+C:\Users\User\source\repos\WindowsFormMarciano\WindowsFormMarciano\obj\Debug\WindowsFormMarciano.FormWin.resources
