@@ -12,11 +12,11 @@ namespace WindowsFormMarciano
 {
     public partial class Form1 : Form
     {
-        Arvore arvore = new Arvore();
         Marciano marciano = new Marciano();
         Cacador cacador = new Cacador();
         int contadorCliques;
         Random random = new Random();
+
         public Form1()
         {
             InitializeComponent();
@@ -31,11 +31,15 @@ namespace WindowsFormMarciano
             if (valorUpdown == marciano.posicao)
             {
                 win.Show();
-                MessageBox.Show(marciano.acertou);
+                MessageBox.Show(win, marciano.acertou);
+            }
+            else if (valorUpdown < marciano.posicao)
+            {
+                MessageBox.Show(this, marciano.orientacao1);
             }
             else
             {
-                MessageBox.Show("Errou amigão!");
+                MessageBox.Show(this, marciano.orientacao2);
             }
         }
 
@@ -52,15 +56,14 @@ namespace WindowsFormMarciano
 
         public void clickbtn(object sender, MouseEventArgs e)
         {
-            
-
             Form2 form2 = new Form2();
+            int valorUpdown = (int)numericUpDown1.Value;
             cacador.bala--;
 
-            if (cacador.bala == 0)
+            if (cacador.bala == 0 && valorUpdown != marciano.posicao)
             {
                 form2.Show();
-                MessageBox.Show("Vou te pegar!");
+                MessageBox.Show(form2, marciano.gameOver);
             }
             
         }

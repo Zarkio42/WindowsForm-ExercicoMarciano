@@ -39,7 +39,7 @@
             this.buttonShoot.BackColor = System.Drawing.Color.Red;
             this.buttonShoot.Font = new System.Drawing.Font("Montserrat", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonShoot.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.buttonShoot.Location = new System.Drawing.Point(419, 469);
+            this.buttonShoot.Location = new System.Drawing.Point(684, 491);
             this.buttonShoot.Name = "buttonShoot";
             this.buttonShoot.Size = new System.Drawing.Size(151, 69);
             this.buttonShoot.TabIndex = 0;
@@ -53,7 +53,7 @@
             this.numericUpDown1.BackColor = System.Drawing.SystemColors.Info;
             this.numericUpDown1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.numericUpDown1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.numericUpDown1.Location = new System.Drawing.Point(420, 415);
+            this.numericUpDown1.Location = new System.Drawing.Point(684, 436);
             this.numericUpDown1.Margin = new System.Windows.Forms.Padding(5);
             this.numericUpDown1.Minimum = new decimal(new int[] {
             1,
@@ -79,7 +79,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1035, 605);
+            this.ClientSize = new System.Drawing.Size(1440, 636);
             this.Controls.Add(this.numericUpDown1);
             this.Controls.Add(this.buttonShoot);
             this.DoubleBuffered = true;
